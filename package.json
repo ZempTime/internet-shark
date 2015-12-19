@@ -1,0 +1,19 @@
+{
+  "name": "internet-shark",
+  "main": "./lib/internet-shark",
+  "version": "0.0.0",
+  "description": "Summons the internet shark to eat your code.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "internet-shark:toggle"
+  },
+  "repository": "https://github.com/atom/internet-shark",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4"
+  }
+}

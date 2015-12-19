@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle internet-shark'
+      'command': 'internet-shark:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'internet-shark'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'internet-shark:toggle'
+        }
+      ]
+    ]
+  }
+]
