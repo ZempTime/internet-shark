@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "internet-shark:toggle"
   },
-  "repository": "https://github.com/atom/internet-shark",
+  "repository": "https://github.com/zemptime/internet-shark",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
