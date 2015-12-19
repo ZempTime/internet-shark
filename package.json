@@ -1,7 +1,7 @@
 {
   "name": "internet-shark",
   "main": "./lib/internet-shark",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Summons the internet shark to eat your code.",
   "keywords": [
   ],
