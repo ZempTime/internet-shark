@@ -1,10 +1,9 @@
 {
   "name": "internet-shark",
   "main": "./lib/internet-shark",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Summons the internet shark to eat your code.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "internet-shark:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
